@@ -1,4 +1,5 @@
 #nombre: mabe rosero
+#nombre2: Lizeth Moreno
 1+10
 
 #resta
@@ -9,3 +10,6 @@
 
 #division
 5/2
+
+#sum
+4+2

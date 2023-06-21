@@ -6,3 +6,6 @@
 
 #multiplicación
 5*15
+
+#division
+5/2
